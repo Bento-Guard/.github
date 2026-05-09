@@ -20,3 +20,4 @@ Bento — The Encrypted Security Layer for Agentic Economy
 - Turns agent security into a real-time control system, so users can run trading, bridging, and DeFi agents with confidence
 
 Website: https://bentoguard.xyz
+Our DApp is LIVE: https://app.bentoguard.xyz
